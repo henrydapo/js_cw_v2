@@ -78,6 +78,8 @@ const users = {
 
 3. Set your name in the users object without modifying the original users object
 
+4. A volume of a rectangular prism is calculated as follows: volume = length x width x height. Write a function which calculates volumeOfRectPrism.
+
 _Further Research: Research the input method "prompt()"._
 
 _ND: Try your best to solve this without AI. For team presentation, i'll pick one of this questions for any of your team members to code live in class on saturday._
